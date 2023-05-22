@@ -2,7 +2,7 @@
 
   ### cigarette-cards-john-player-and-sons-a-nature-calendar
   
-  ![Simple website template with image banner](images/cigarette-cards-john-player-and-sons-a-nature-calendar-sample.png)
+  ![cigarette-cards-john-player-and-sons-a-nature-calendar-sample.png](images/cigarette-cards-john-player-and-sons-a-nature-calendar-sample.png)
 
   <br>
 
