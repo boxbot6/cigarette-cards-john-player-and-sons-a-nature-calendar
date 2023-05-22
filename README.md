@@ -6,6 +6,6 @@
 
   <br>
 
-  * [Click this link to view the website being created from this repository and hosted on github-pages (https://boxbot6.github.io/simple-website-template-with-image-banner-v1/).](https://boxbot6.github.io/simple-website-template-with-image-banner-v1/)
+  * [Click this link to view the above website being created from this repository and hosted on github-pages (https://boxbot6.github.io/simple-website-template-with-image-banner-v1/).](https://boxbot6.github.io/simple-website-template-with-image-banner-v1/)
 
   <br>
